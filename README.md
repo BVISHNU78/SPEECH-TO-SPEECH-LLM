@@ -1,4 +1,4 @@
-# SPEECH-TO-SPEECH-LLM![download](https://github.com/user-attachments/assets/fd0888ad-96fc-4813-9f37-033f6bb9247e) ![download (1)](https://github.com/user-attachments/assets/023cd0b0-cdbf-4d37-93f2-19d0fada5b16)
+# SPEECH-TO-SPEECH-LLM ![download](https://github.com/user-attachments/assets/fd0888ad-96fc-4813-9f37-033f6bb9247e) ![download (1)](https://github.com/user-attachments/assets/023cd0b0-cdbf-4d37-93f2-19d0fada5b16)
 ![download](https://github.com/user-attachments/assets/d0532587-1bdd-441e-ab2b-931d0dc8f350)
 
 
