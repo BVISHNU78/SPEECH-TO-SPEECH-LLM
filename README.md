@@ -8,5 +8,4 @@ A speech-to-speech language model (LLM) is an advanced AI system
 ![Screenshot 2024-12-16 002558](https://github.com/user-attachments/assets/141fc7af-f80b-453e-9755-0d088f00959d)
 https://huggingface.co/spaces/Bvishnu/speech-to-speech-llm
 
-![Uploading mistral-7b-instruct-v0.1.Q5_K_M.gguf.png…]()
 
